@@ -16,6 +16,7 @@ Built using AutoIt freeware scripting language: https://www.autoitscript.com/sit
 2. Download Command Line 7zip (*7z.dll* and *7z.exe*) to the application folder under the folder *\7z*
 3. Create a file named *ini.txt* with the following content and save it to the application folder:
 
+```
 [ini]
 version = 1.52
 compression = 5
@@ -45,7 +46,7 @@ password9 = g@*A+e4VNBBd=*YM*-oucVdw=P~rPLvAqVsO5f-bME
 password10 = "This was created by Ding-A-Ling, 2018!!"
 password11 = "It's without any warranty.............."
 
-
+```
 
 ## License
 
