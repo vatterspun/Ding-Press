@@ -10,6 +10,10 @@ https://www.portablefreeware.com/forums/viewtopic.php?p=90670
 
 Built using AutoIt freeware scripting language: https://www.autoitscript.com/site/autoit/
 
+## Download
+
+See the home page for a binary distribution.
+
 ## Build instructions
 
 1. Build the AutoIt script using AutoIt freeware to create *Ding-Press.exe*
