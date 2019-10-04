@@ -1,11 +1,10 @@
-! NOTE: This site is not active -- please see the home page below for more updates. !
+!! NOTE: This site is not active -- please see the home page below for updates. !!
 
 
 # Ding-Press
 ## Description 
 
 Windows 7-zip front-end with easily modified, common output options for password and compression.
-
 
 
 ## Home Page
